@@ -1,4 +1,6 @@
 # Getting Started with love 😍
+### `You can check out live demo`
+<a href="https://react-travel-live.vercel.app/" target="blank>Live Demo 😍</a>
 
 ## Available Scripts
 
